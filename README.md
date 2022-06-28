@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Hello Microverse!
 
-> Description the project.
+> This is a webpage built for microverse it only contains the header.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+ This project is given to a micronaut to ensure that they have mastered linters knowledge and that their project is well arranged.
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Setup
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+To get access to this repository, move to "Hello-world" repository, and then either use [ssh] or [https] to clone onto your local machine. To clone checkout this documentation on github (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) You can view this project with you browser
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Rn486](https://github.com/Rn486)
+- Twitter: [@recillahk](https://twitter.com/recillahk)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/recillah-khamala-071151b7/)
 
 ## 🤝 Contributing
 
@@ -64,9 +42,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hats off to Microverse for helping me get to this stage.
 
 ## 📝 License
 
